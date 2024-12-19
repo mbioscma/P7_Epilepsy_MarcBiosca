@@ -18,14 +18,11 @@ This project involves processing and normalizing MRI, ictal, and interictal SPEC
 7. **normalized_median_interictal.nii.gz**: Interictal SPECT normalized using median normalization.  
 8. **normalized_z_ictal.nii.gz**: Ictal SPECT normalized using Z-score normalization.  
 9. **normalized_z_interictal.nii.gz**: Interictal SPECT normalized using Z-score normalization.  
-10. **RM.nii**: Raw T1-weighted MRI scan of the subject.  
-11. **RM_brain.nii.gz**: Skull-stripped brain extracted from the subject's MRI using FSL BET.  
-12. **RM_brain_mask.nii.gz**: Binary brain mask extracted from the subject's MRI using FSL BET.  
-13. **thresholded_mean_diff.nii.gz**: Thresholded subtraction image for mean normalization.  
-14. **thresholded_median_diff.nii.gz**: Thresholded subtraction image for median normalization.  
-15. **thresholded_z_diff.nii.gz**: Thresholded subtraction image for Z-score normalization.  
-16. **wICTAL.nii**: Ictal SPECT image aligned to the subject's MRI space.  
-17. **wrINTERICTAL.nii**: Interictal SPECT image aligned to the subject's MRI space.  
+10. **RM_brain.nii.gz**: Skull-stripped brain extracted from the subject's MRI using FSL BET.  
+11. **RM_brain_mask.nii.gz**: Binary brain mask extracted from the subject's MRI using FSL BET.  
+12. **thresholded_mean_diff.nii.gz**: Thresholded subtraction image for mean normalization.  
+13. **thresholded_median_diff.nii.gz**: Thresholded subtraction image for median normalization.  
+14. **thresholded_z_diff.nii.gz**: Thresholded subtraction image for Z-score normalization.  
 
 ## Tools Used
 - Python with nibabel and nilearn for image processing.
