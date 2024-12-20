@@ -5,7 +5,7 @@
 This project involves processing and normalizing MRI, ictal, and interictal SPECT images to localize the epileptogenic focus in a single subject.
 
 ## Files in this Repository
-- **NAME**: A Jupyter Notebook containing all operations, functions, and scripts used for processing, normalizing, and exploring the images. This includes steps like masking, normalization (mean, median, Z-score), and others.
+- **MarcBiosca_P7_Epilepsy.ipynb**: A Jupyter Notebook containing all operations, functions, and scripts used for processing, normalizing, and exploring the images. This includes steps like masking, normalization (mean, median, Z-score), and others.
 
 - **Resultant Images**:
 
