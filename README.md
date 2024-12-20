@@ -7,6 +7,8 @@ This project involves processing and normalizing MRI, ictal, and interictal SPEC
 ## Files in this Repository
 - *MarcBiosca_P7_Epilepsy.ipynb*: A Jupyter Notebook containing all operations, functions, and scripts used for processing, normalizing, and exploring the images. This includes steps like masking, normalization (mean, median, Z-score), and subtraction.
 
+- *MarcBiosca_Poster_P7_AME1*: Scientific Poster titled *Multimodal Imaging Techniques in Epilepsy: A SISCOM-Based Approach* that goes through the steps in a ISCOM methodology using three types of normalization methods.
+
 - *Resultant Images*:
 
 1. *Atlas_in_MRI_space.nii.gz*: Harvard-Oxford cortical atlas transformed to the subject's MRI space.  
